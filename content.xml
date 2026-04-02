@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604021233202C9GCJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604021233200714GQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Escuchar para mejorar: grabación en la clase de viola. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María de los Ángeles Gómez Menor </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Actividad a realizar en la clase de viola para la mejora de la interpretación. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775125986803</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnhc6hfs-f2ked72ej</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Escuchar para mejorar</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Escuchar para mejorar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Escuchar para mejorar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfs-f2ked72ej</odePageId>
+      <odeBlockId>block-mnfvo27f-bxr9lvgiz</odeBlockId>
+      <blockName>Escuchar para mejorar: grabación en la clase de viola. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfs-f2ked72ej</odePageId>
+          <odeBlockId>block-mnfvo27f-bxr9lvgiz</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-ejg2jbsuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/Viola-Providence-Doucet-Unsplash.jpg" alt="" width="834" height="555" /></p>
+<p>Imagen obtenida de: MusicaClasica.info (https://www.musicaclasica.info/instrumentos/la-viola/)<br />Autor: no especificado<br />Licencia: no especificada<br />Uso educativo sin fines comerciales.</p>
+<p>Trabajo realizado por: María de los Ángeles Gómez Menor </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/Viola-Providence-Doucet-Unsplash.jpg\" alt=\"\" width=\"834\" height=\"555\" /></p>\n<p>Imagen obtenida de: MusicaClasica.info (https://www.musicaclasica.info/instrumentos/la-viola/)<br />Autor: no especificado<br />Licencia: no especificada<br />Uso educativo sin fines comerciales.</p>\n<p>Trabajo realizado por: María de los Ángeles Gómez Menor </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+      <odeBlockId>block-mnfvo27g-w1s6xysb8</odeBlockId>
+      <blockName>Presentación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+          <odeBlockId>block-mnfvo27g-w1s6xysb8</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-t2wuex9n8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En las siguientes secciones vamos a encontrar una explicación del proyecto que se va a llevar a cabo, qué va a hacer el alumnado y para qué sirve el proyecto. </p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ugfpcfugfpcfugfp.png" title="Grabación en el aula de viola " width="1236" height="674" alt="Cómo grabamos las interpretaciones " /></p>
+<p>Imagen generada por IA con Google Gemini. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27g-t2wuex9n8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En las siguientes secciones vamos a encontrar una explicación del proyecto que se va a llevar a cabo, qué va a hacer el alumnado y para qué sirve el proyecto. </p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ugfpcfugfpcfugfp.png\" title=\"Grabación en el aula de viola \" width=\"1236\" height=\"674\" alt=\"Cómo grabamos las interpretaciones \" /></p>\n<p>Imagen generada por IA con Google Gemini. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+      <odeBlockId>block-mnfvo27g-l0vw3s6b2</odeBlockId>
+      <blockName>Descripción del proyecto. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+          <odeBlockId>block-mnfvo27g-l0vw3s6b2</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-31k24q100</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La actividad consiste en que el alumnado interprete un fragmento u obra que se esté trabajando en clase para realizar una primera grabación, al finalizar escuchamos la interpretación grabada con un dispositivo digital. Para ello, utilizamos un dispositivo digital del centro o en caso de no estar disponible mi tablet particular para luego subir la grabación a Google Classroom y que la tengan a su alcance. Una vez visualizadas las grabaciones se realiza la autocrítica constructiva para localizar aspectos a mejorar y poder trabajarlos en casa. Al cabo de unas sesiones de trabajo y mejora se realiza otra grabación y se escucha para comprobar la diferencia y los aspectos de mejora ya realizados. </p>
+<p>Mediante el uso de Google Drive también se pueden ir ordenando las grabaciones junto con la fecha de la clase en la que se realizan para tener un orden y en caso de repetir la actividad con otras obras o fragmentos, poder tenerlos todos localizados. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>La actividad consiste en que el alumnado interprete un fragmento u obra que se esté trabajando en clase para realizar una primera grabación, al finalizar escuchamos la interpretación grabada con un dispositivo digital. Para ello, utilizamos un dispositivo digital del centro o en caso de no estar disponible mi tablet particular para luego subir la grabación a Google Classroom y que la tengan a su alcance. Una vez visualizadas las grabaciones se realiza la autocrítica constructiva para localizar aspectos a mejorar y poder trabajarlos en casa. Al cabo de unas sesiones de trabajo y mejora se realiza otra grabación y se escucha para comprobar la diferencia y los aspectos de mejora ya realizados. </p>\n<p>Mediante el uso de Google Drive también se pueden ir ordenando las grabaciones junto con la fecha de la clase en la que se realizan para tener un orden y en caso de repetir la actividad con otras obras o fragmentos, poder tenerlos todos localizados. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+      <odeBlockId>block-mnfvo27g-7sxmhq9gk</odeBlockId>
+      <blockName>Qué hace el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+          <odeBlockId>block-mnfvo27g-7sxmhq9gk</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-muern0b2c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El proyecto pretende que el alumnado desarrolle la capacidad de escucharse de forma crítica y reflexiva mediante el uso de grabaciones de su propia interpretación. A través de esta herramienta, se trabajan aspectos técnicos como la afinación, el ritmo y la calidad del sonido, así como elementos musicales como la expresividad, el fraseo y las dinámicas. </p>
+<p>Además, se fomenta la participación activa del alumnado en su propio proceso de aprendizaje, promoviendo la autoevaluación y el diálogo con el docente. La tecnología se utiliza como un apoyo que complementa el trabajo instrumental habitual.  </p>
+<p>El proceso consiste en: </p>
+<p>- Interpretar una pieza musical que se esté trabajando en clase y grabarla. <br />- Guardar cada grabación en su carpeta personal de Google Drive. <br />- Escuchar la grabación de forma guiada. <br />- Identificar aspectos técnicos y musicales. <br />- Reflexionar sobre su interpretación. <br />- Repetir la interpretación aplicando mejoras. </p>
+<p><br />Gracias a Google Drive, el alumnado puede ordenar sus grabaciones en carpetas personales. Dentro de ellas, se crean subcarpetas para cada pieza trabajada, guardando las distintas versiones de sus interpretaciones con la fecha de la interpretación. Esto nos permite ver la evolución y reforzar la autoevaluación. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El proyecto pretende que el alumnado desarrolle la capacidad de escucharse de forma crítica y reflexiva mediante el uso de grabaciones de su propia interpretación. A través de esta herramienta, se trabajan aspectos técnicos como la afinación, el ritmo y la calidad del sonido, así como elementos musicales como la expresividad, el fraseo y las dinámicas. </p>\n<p>Además, se fomenta la participación activa del alumnado en su propio proceso de aprendizaje, promoviendo la autoevaluación y el diálogo con el docente. La tecnología se utiliza como un apoyo que complementa el trabajo instrumental habitual.  </p>\n<p>El proceso consiste en: </p>\n<p>- Interpretar una pieza musical que se esté trabajando en clase y grabarla. <br />- Guardar cada grabación en su carpeta personal de Google Drive. <br />- Escuchar la grabación de forma guiada. <br />- Identificar aspectos técnicos y musicales. <br />- Reflexionar sobre su interpretación. <br />- Repetir la interpretación aplicando mejoras. </p>\n<p><br />Gracias a Google Drive, el alumnado puede ordenar sus grabaciones en carpetas personales. Dentro de ellas, se crean subcarpetas para cada pieza trabajada, guardando las distintas versiones de sus interpretaciones con la fecha de la interpretación. Esto nos permite ver la evolución y reforzar la autoevaluación. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+      <odeBlockId>block-1775058689258-jpvxopt4d</odeBlockId>
+      <blockName>¿Para qué?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+          <odeBlockId>block-1775058689258-jpvxopt4d</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-4thkentjz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El uso de la grabación de audio y vídeo como recurso didáctico para fomentar la escucha activa, la autoevaluación y la mejora de la interpretación musical en el alumnado de viola ya que de esta manera se desarrolla la capacidad de autoanálisis crítico gracias a la integración de la tecnología en el aula como apoyo al aprendizaje instrumental integrado en la práctica musical. </p>
+<p>Además, este proyecto se fundamenta en una experiencia previa en el aula en la que se incorporó la grabación como recurso didáctico. Tal y como se refleja en la rutina de pensamiento, la actividad resultó positiva, ya que permitió al alumnado realizar una escucha más consciente de su interpretación y facilitó el análisis de aspectos técnicos y musicales de forma más concreta.</p>
+<p>No obstante, también se identificaron aspectos de mejora, como la necesidad de explicar previamente el objetivo de la actividad y de dedicar más tiempo a familiarizar al alumnado con esta dinámica. Asimismo, se observó que repetir este tipo de actividades a lo largo del curso puede ayudar a consolidar la escucha crítica como parte del aprendizaje.</p>
+<p>A partir de estas conclusiones, este proyecto propone una aplicación más estructurada de la actividad, con una mejor organización del tiempo y una mayor intencionalidad pedagógica. De este modo, se busca aprovechar el potencial de recursos digitales sencillos para enriquecer el proceso de enseñanza-aprendizaje sin sustituir la práctica instrumental.  </p>
+<p>El uso de Google Drive añade un valor pedagógico al proyecto, que permite al alumnado visualizar su evolución, organizar su trabajo y tomar conciencia de su mejora.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El uso de la grabación de audio y vídeo como recurso didáctico para fomentar la escucha activa, la autoevaluación y la mejora de la interpretación musical en el alumnado de viola ya que de esta manera se desarrolla la capacidad de autoanálisis crítico gracias a la integración de la tecnología en el aula como apoyo al aprendizaje instrumental integrado en la práctica musical. </p>\n<p>Además, este proyecto se fundamenta en una experiencia previa en el aula en la que se incorporó la grabación como recurso didáctico. Tal y como se refleja en la rutina de pensamiento, la actividad resultó positiva, ya que permitió al alumnado realizar una escucha más consciente de su interpretación y facilitó el análisis de aspectos técnicos y musicales de forma más concreta.</p>\n<p>No obstante, también se identificaron aspectos de mejora, como la necesidad de explicar previamente el objetivo de la actividad y de dedicar más tiempo a familiarizar al alumnado con esta dinámica. Asimismo, se observó que repetir este tipo de actividades a lo largo del curso puede ayudar a consolidar la escucha crítica como parte del aprendizaje.</p>\n<p>A partir de estas conclusiones, este proyecto propone una aplicación más estructurada de la actividad, con una mejor organización del tiempo y una mayor intencionalidad pedagógica. De este modo, se busca aprovechar el potencial de recursos digitales sencillos para enriquecer el proceso de enseñanza-aprendizaje sin sustituir la práctica instrumental.  </p>\n<p>El uso de Google Drive añade un valor pedagógico al proyecto, que permite al alumnado visualizar su evolución, organizar su trabajo y tomar conciencia de su mejora.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+      <odeBlockId>block-mnfvo27g-ox55flpqn</odeBlockId>
+      <blockName>¿Qué vas a aprender? </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfw-v68a8zucb</odePageId>
+          <odeBlockId>block-mnfvo27g-ox55flpqn</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-u0egp5ph9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p data-start="179" data-end="329">En este proyecto vas a aprender a mejorar tu interpretación con la viola utilizando una herramienta muy importante: la escucha de tu propia grabación.</p>
+<p data-start="331" data-end="587">A lo largo de las diferentes actividades, trabajarás no solo la interpretación musical, sino también tu capacidad para analizar y reflexionar sobre cómo tocas. Esto te ayudará a ser más consciente de tus puntos fuertes y de los aspectos que puedes mejorar.</p>
+<p data-start="589" data-end="615">En concreto, aprenderás a:</p>
+<ul data-start="617" data-end="1006">
+<li data-section-id="1c3t1ns" data-start="617" data-end="678">Escucharte de forma atenta y crítica después de tocar.</li>
+<li data-section-id="awndir" data-start="679" data-end="768">Identificar aspectos técnicos como la afinación, el ritmo y la calidad del sonido.</li>
+<li data-section-id="7ag3bo" data-start="769" data-end="829">Mejorar la expresividad en tu interpretación musical.</li>
+<li data-section-id="cww7pf" data-start="830" data-end="914">Aplicar correcciones a partir de lo que has escuchado en tu propia grabación.</li>
+<li data-section-id="64098q" data-start="915" data-end="1006">Utilizar herramientas digitales sencillas para grabarte y revisar tu interpretación.</li>
+</ul>
+<p data-start="1008" data-end="1190">Además, este proyecto te ayudará a desarrollar tu autonomía como músico o música, ya que aprenderás a evaluar tu propio trabajo y a tomar decisiones para mejorar de forma progresiva.</p>
+<p data-start="1192" data-end="1329">Recuerda que el objetivo no es hacerlo perfecto desde el principio, sino ir mejorando poco a poco a través de la práctica y la reflexión.</p>
+<p data-start="1192" data-end="1329"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_wdwq4uwdwq4uwdwq.png" title="Visualización de la grabación. " width="1236" height="674" alt="Visualización de la grabación previa para poder observar la interpretación y ser conscientes de las mejoras a realizar al igual que los aspectos que ya se manejan. " /></p>
+<p data-start="1192" data-end="1329">Imagen generada por IA con Google Gemini. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27g-u0egp5ph9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p data-start=\"179\" data-end=\"329\">En este proyecto vas a aprender a mejorar tu interpretación con la viola utilizando una herramienta muy importante: la escucha de tu propia grabación.</p>\n<p data-start=\"331\" data-end=\"587\">A lo largo de las diferentes actividades, trabajarás no solo la interpretación musical, sino también tu capacidad para analizar y reflexionar sobre cómo tocas. Esto te ayudará a ser más consciente de tus puntos fuertes y de los aspectos que puedes mejorar.</p>\n<p data-start=\"589\" data-end=\"615\">En concreto, aprenderás a:</p>\n<ul data-start=\"617\" data-end=\"1006\">\n<li data-section-id=\"1c3t1ns\" data-start=\"617\" data-end=\"678\">Escucharte de forma atenta y crítica después de tocar.</li>\n<li data-section-id=\"awndir\" data-start=\"679\" data-end=\"768\">Identificar aspectos técnicos como la afinación, el ritmo y la calidad del sonido.</li>\n<li data-section-id=\"7ag3bo\" data-start=\"769\" data-end=\"829\">Mejorar la expresividad en tu interpretación musical.</li>\n<li data-section-id=\"cww7pf\" data-start=\"830\" data-end=\"914\">Aplicar correcciones a partir de lo que has escuchado en tu propia grabación.</li>\n<li data-section-id=\"64098q\" data-start=\"915\" data-end=\"1006\">Utilizar herramientas digitales sencillas para grabarte y revisar tu interpretación.</li>\n</ul>\n<p data-start=\"1008\" data-end=\"1190\">Además, este proyecto te ayudará a desarrollar tu autonomía como músico o música, ya que aprenderás a evaluar tu propio trabajo y a tomar decisiones para mejorar de forma progresiva.</p>\n<p data-start=\"1192\" data-end=\"1329\">Recuerda que el objetivo no es hacerlo perfecto desde el principio, sino ir mejorando poco a poco a través de la práctica y la reflexión.</p>\n<p data-start=\"1192\" data-end=\"1329\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_wdwq4uwdwq4uwdwq.png\" title=\"Visualización de la grabación. \" width=\"1236\" height=\"674\" alt=\"Visualización de la grabación previa para poder observar la interpretación y ser conscientes de las mejoras a realizar al igual que los aspectos que ya se manejan. \" /></p>\n<p data-start=\"1192\" data-end=\"1329\">Imagen generada por IA con Google Gemini. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hfy-2htnmrsvh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfy-2htnmrsvh</odePageId>
+      <odeBlockId>block-mnfvo27g-qugbhkh2f</odeBlockId>
+      <blockName>Descripción del Producto Final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfy-2htnmrsvh</odePageId>
+          <odeBlockId>block-mnfvo27g-qugbhkh2f</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-eo1q824sw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El producto final de este proyecto consistirá en la realización de una interpretación musical grabada en la que puedas demostrar tu evolución y mejora a lo largo del proceso.</p>
+<p>Para ello, seguirás estos pasos:</p>
+<p>- Realizarás una primera grabación de un fragmento musical trabajado en clase.<br />- Escucharás tu propia interpretación con atención, analizando aspectos como la afinación, el ritmo, la calidad del sonido y la expresividad.<br />- Reflexionarás sobre los aspectos que puedes mejorar.<br />- Aplicarás las correcciones necesarias en tu forma de tocar.<br />- Realizarás una segunda grabación, en la que pondrás en práctica todo lo que has trabajado.</p>
+<p><br />El objetivo no es solo obtener una buena interpretación final, sino que seas capaz de reconocer tu propio progreso y entender cómo has mejorado gracias a la escucha y la reflexión.</p>
+<p>Además, acompañarás tu trabajo con una breve reflexión en la que expliques:</p>
+<p>- Qué aspectos has mejorado.<br />- Qué dificultades has encontrado.<br />- Qué te ha ayudado más durante el proceso.</p>
+<p>De este modo, el producto final no será únicamente una grabación, sino también una muestra de tu capacidad para aprender de forma autónoma utilizando herramientas digitales de manera responsable. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El producto final de este proyecto consistirá en la realización de una interpretación musical grabada en la que puedas demostrar tu evolución y mejora a lo largo del proceso.</p>\n<p>Para ello, seguirás estos pasos:</p>\n<p>- Realizarás una primera grabación de un fragmento musical trabajado en clase.<br />- Escucharás tu propia interpretación con atención, analizando aspectos como la afinación, el ritmo, la calidad del sonido y la expresividad.<br />- Reflexionarás sobre los aspectos que puedes mejorar.<br />- Aplicarás las correcciones necesarias en tu forma de tocar.<br />- Realizarás una segunda grabación, en la que pondrás en práctica todo lo que has trabajado.</p>\n<p><br />El objetivo no es solo obtener una buena interpretación final, sino que seas capaz de reconocer tu propio progreso y entender cómo has mejorado gracias a la escucha y la reflexión.</p>\n<p>Además, acompañarás tu trabajo con una breve reflexión en la que expliques:</p>\n<p>- Qué aspectos has mejorado.<br />- Qué dificultades has encontrado.<br />- Qué te ha ayudado más durante el proceso.</p>\n<p>De este modo, el producto final no será únicamente una grabación, sino también una muestra de tu capacidad para aprender de forma autónoma utilizando herramientas digitales de manera responsable. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+      <odeBlockId>block-mnfvo27h-8bx9vaz1l</odeBlockId>
+      <blockName>Actividad 1: Introducción a la grabación y escucha activa.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+          <odeBlockId>block-mnfvo27h-8bx9vaz1l</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-yy80tki02</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Actividad 1: Introducción a la grabación y escucha activa. </li>
+</ul>
+<p>- Escuchar la explicación del profesor/a sobre la actividad. </p>
+<p>- Observar cómo se realiza una grabación sencilla con un dispositivo móvil. </p>
+<p>- Participar en una breve reflexión sobre la importancia de la escucha en la música </p>
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 560px;" id="fig_npcn9pjex"><iframe width="560" height="314" src="https://www.youtube.com/embed/JDSEZF_pMm8?t=3s" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Canal Youtube Federico Cecchetto</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<ul></ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27h-yy80tki02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Actividad 1: Introducción a la grabación y escucha activa. </li>\n</ul>\n<p>- Escuchar la explicación del profesor/a sobre la actividad. </p>\n<p>- Observar cómo se realiza una grabación sencilla con un dispositivo móvil. </p>\n<p>- Participar en una breve reflexión sobre la importancia de la escucha en la música </p>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 560px;\" id=\"fig_npcn9pjex\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/JDSEZF_pMm8?t=3s\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Canal Youtube Federico Cecchetto</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<ul></ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+      <odeBlockId>block-1775063408565-49n3tt3th</odeBlockId>
+      <blockName>Actividad 2: Primera grabación.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+          <odeBlockId>block-1775063408565-49n3tt3th</odeBlockId>
+          <odeIdeviceId>idevice-1775063408564-kd64sjpwc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>Actividad 2: Primera grabación. <br />- Preparar el fragmento musical trabajado en clase. </p>
+<p>- Buscar una posición adecuada para grabarte (postura, sonido). </p>
+<p>- Realizar una grabación con tu instrumento. </p>
+<p><iframe width="500" height="314" src="https://www.youtube.com/embed/gFGP8ZjQViY?si=tRdVLjlA-vEy9rrC" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Canal Youtube de ht-Sinfonieorchester- Frankfurt Radio Symphony (CC BY-NC) </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775063408564-kd64sjpwc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>Actividad 2: Primera grabación. <br />- Preparar el fragmento musical trabajado en clase. </p>\n<p>- Buscar una posición adecuada para grabarte (postura, sonido). </p>\n<p>- Realizar una grabación con tu instrumento. </p>\n<p><iframe width=\"500\" height=\"314\" src=\"https://www.youtube.com/embed/gFGP8ZjQViY?si=tRdVLjlA-vEy9rrC\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Canal Youtube de ht-Sinfonieorchester- Frankfurt Radio Symphony (CC BY-NC) </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+      <odeBlockId>block-1775063430831-3rpsxfybq</odeBlockId>
+      <blockName>Actividad 3: Escucha y reflexión.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+          <odeBlockId>block-1775063430831-3rpsxfybq</odeBlockId>
+          <odeIdeviceId>idevice-1775063430830-u9d5h8zsk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad 3: Escucha y reflexión. <br />- Escuchar tu grabación con atención. </p>
+<p>- Completar la diana de autoevaluación. </p>
+<p>- Reflexionar sobre tu interpretación. </p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_3rcvab3rcvab3rcv.png" title="Alumnado rellenando la diana de autoevaluación tras realizar la primera escucha. " width="768" height="419" alt="" /></p>
+<p>Imagen generada con IA Google Gemini. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775063430830-u9d5h8zsk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad 3: Escucha y reflexión. <br />- Escuchar tu grabación con atención. </p>\n<p>- Completar la diana de autoevaluación. </p>\n<p>- Reflexionar sobre tu interpretación. </p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_3rcvab3rcvab3rcv.png\" title=\"Alumnado rellenando la diana de autoevaluación tras realizar la primera escucha. \" width=\"768\" height=\"419\" alt=\"\" /></p>\n<p>Imagen generada con IA Google Gemini. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+      <odeBlockId>block-1775063453391-5cwbazj1l</odeBlockId>
+      <blockName>Actividad 4: Segunda grabación (mejora).</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+          <odeBlockId>block-1775063453391-5cwbazj1l</odeBlockId>
+          <odeIdeviceId>idevice-1775063453390-y7bub1add</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad 4: Segunda grabación (mejora). <br />- Revisar los aspectos que quieres mejorar. </p>
+<p>- Volver a interpretar el mismo fragmento. </p>
+<p>- Realizar la segunda grabación. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775063453390-y7bub1add","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad 4: Segunda grabación (mejora). <br />- Revisar los aspectos que quieres mejorar. </p>\n<p>- Volver a interpretar el mismo fragmento. </p>\n<p>- Realizar la segunda grabación. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+      <odeBlockId>block-1775063467560-5ud4jnsnx</odeBlockId>
+      <blockName>Actividad 5: Puesta en común y reflexión final.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hfz-uxi56mt57</odePageId>
+          <odeBlockId>block-1775063467560-5ud4jnsnx</odeBlockId>
+          <odeIdeviceId>idevice-1775063467559-ye2ha4pey</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad 5: Puesta en común y reflexión final. <br />- Comparar tu primera y segunda grabación. </p>
+<p>- Participar en la puesta en común en clase. </p>
+<p>- Compartir tu experiencia. </p>
+<p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ve8160ve8160ve81.png" title="Alumnado con la reflexión final" width="795" height="434" alt="Reflexión final" /></p>
+<p>Imagen generada con IA de Google Gemini. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775063467559-ye2ha4pey","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad 5: Puesta en común y reflexión final. <br />- Comparar tu primera y segunda grabación. </p>\n<p>- Participar en la puesta en común en clase. </p>\n<p>- Compartir tu experiencia. </p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ve8160ve8160ve81.png\" title=\"Alumnado con la reflexión final\" width=\"795\" height=\"434\" alt=\"Reflexión final\" /></p>\n<p>Imagen generada con IA de Google Gemini. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg0-mx6y01fbw</odePageId>
+  <odeParentPageId>page-mnhc6hfz-uxi56mt57</odeParentPageId>
+  <pageName>Línea de tiempo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea de tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea de tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg0-mx6y01fbw</odePageId>
+      <odeBlockId>block-mnfvo27h-sluu1vf4i</odeBlockId>
+      <blockName>Secuencia de actividades. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg0-mx6y01fbw</odePageId>
+          <odeBlockId>block-mnfvo27h-sluu1vf4i</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-gtbe1vrcg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="300" height="150" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHE88Trf90/Oezn7cKTTlUYBT_tUNquNw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHE88Trf90/Oezn7cKTTlUYBT_tUNquNw/view?utm_content=DAHE88Trf90&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Gráfico línea de tiempo Timeline Flujo proceso Progreso Moderno Beige</a> de Mª Ángeles Gómez Menor</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"300\" height=\"150\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHE88Trf90/Oezn7cKTTlUYBT_tUNquNw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHE88Trf90/Oezn7cKTTlUYBT_tUNquNw/view?utm_content=DAHE88Trf90&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Gráfico línea de tiempo Timeline Flujo proceso Progreso Moderno Beige</a> de Mª Ángeles Gómez Menor</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+      <odeBlockId>block-mnfvo27g-8fnjdbkot</odeBlockId>
+      <blockName>Recursos </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+          <odeBlockId>block-mnfvo27g-8fnjdbkot</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-lptdq8l2i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A continuación veremos tanto los recursos para el alumnado como para docentes que quieran llevar a cabo la actividad. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A continuación veremos tanto los recursos para el alumnado como para docentes que quieran llevar a cabo la actividad. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+      <odeBlockId>block-mnfvo27h-z0ymsowpt</odeBlockId>
+      <blockName>Curación de contenidos. Alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+          <odeBlockId>block-mnfvo27h-z0ymsowpt</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-7b9dui6vk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="padlet-embed" style="width: 720px; height: 480px; border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; max-width: 100%;">
+<p style="padding: 0; margin: 0; width: 100%; height: 100%;"><iframe width="300" height="150" style="width: 100%; height: 100%; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/zmdga7retvum42y1" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write;clipboard-read" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"padlet-embed\" style=\"width: 720px; height: 480px; border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; max-width: 100%;\">\n<p style=\"padding: 0; margin: 0; width: 100%; height: 100%;\"><iframe width=\"300\" height=\"150\" style=\"width: 100%; height: 100%; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/zmdga7retvum42y1\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write;clipboard-read\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"></iframe></p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+      <odeBlockId>block-mnfvo27h-nt278159j</odeBlockId>
+      <blockName>Curación de contenidos. Docentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg1-iz2mim9sc</odePageId>
+          <odeBlockId>block-mnfvo27h-nt278159j</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-lzq6ugi2z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAABiRFdPIAA42ADtB0RQ=="></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAABiRFdPIAA42ADtB0RQ==\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+      <odeBlockId>block-mnfvo27h-lt1ulp9p0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+          <odeBlockId>block-mnfvo27h-lt1ulp9p0</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-ncy4z1hir</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descripción: esta situación de aprendizaje se centra en el uso de la grabación como herramienta para mejorar la interpretación. </p>
+<p>Contexto: está dirigida al alumnado de enseñanzas básicas o primeros cursos de enseñanzas profesionales, en concreto 3º o 4º de Enseñanzas Básicas y 1º o 2º de Enseñanzas Profesionales, en estos cursos contamos con alumnos de entre 10 y 14 años. </p>
+<p>Metodología: activa y centrada en el alumnado, basada en la práctica instrumental, la reflexión y el uso de herramientas digitales sencillas. </p>
+<p>Atención a la diversidad: nos adaptamos al ritmo y nivel del alumnado, permitiendo diferentes niveles de dificultad y ofreciendo apoyo visual y auditivo cuando sea necesario. </p>
+<p>Evaluación: es continua y formativa, utilizando instrumentos como rúbricas y dianas de autoevaluación para favorecer la mejora del aprendizaje. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27h-ncy4z1hir","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descripción: esta situación de aprendizaje se centra en el uso de la grabación como herramienta para mejorar la interpretación. </p>\n<p>Contexto: está dirigida al alumnado de enseñanzas básicas o primeros cursos de enseñanzas profesionales, en concreto 3º o 4º de Enseñanzas Básicas y 1º o 2º de Enseñanzas Profesionales, en estos cursos contamos con alumnos de entre 10 y 14 años. </p>\n<p>Metodología: activa y centrada en el alumnado, basada en la práctica instrumental, la reflexión y el uso de herramientas digitales sencillas. </p>\n<p>Atención a la diversidad: nos adaptamos al ritmo y nivel del alumnado, permitiendo diferentes niveles de dificultad y ofreciendo apoyo visual y auditivo cuando sea necesario. </p>\n<p>Evaluación: es continua y formativa, utilizando instrumentos como rúbricas y dianas de autoevaluación para favorecer la mejora del aprendizaje. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+      <odeBlockId>block-1775042904656-9c2w1sn8q</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+          <odeBlockId>block-1775042904656-9c2w1sn8q</odeBlockId>
+          <odeIdeviceId>idevice-1775042904654-5wf3uffv8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestra la tabla de relación de las tareas a llevar a cabo junto con los criterios de evaluación que se tienen en cuenta y detalles de cómo llevarla a cabo como son el agrupamiento, el tiempo aproximado de cada tarea o las herramientas que vamos a necesitar. </p>
+<p>En cualquier caso, las tareas y los criterios de evaluación se adaptan al alumnado, tanto para ampliar la actividad y poder realizar más grabaciones y por tanto más mejoras en la interpretación, como para reforzar y realizar la actividad completamente individual para poder acompañar al alumnado en todo momento y ser un apoyo en su desarrollo.</p>
+<p>Igualmente las sesiones están adaptadas al grupo-clase pero se pueden modificar dependiendo de las necesidades específicas del alumnado. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775042904654-5wf3uffv8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra la tabla de relación de las tareas a llevar a cabo junto con los criterios de evaluación que se tienen en cuenta y detalles de cómo llevarla a cabo como son el agrupamiento, el tiempo aproximado de cada tarea o las herramientas que vamos a necesitar. </p>\n<p>En cualquier caso, las tareas y los criterios de evaluación se adaptan al alumnado, tanto para ampliar la actividad y poder realizar más grabaciones y por tanto más mejoras en la interpretación, como para reforzar y realizar la actividad completamente individual para poder acompañar al alumnado en todo momento y ser un apoyo en su desarrollo.</p>\n<p>Igualmente las sesiones están adaptadas al grupo-clase pero se pueden modificar dependiendo de las necesidades específicas del alumnado. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+      <odeBlockId>block-1775064274588-ukk4qfyrc</odeBlockId>
+      <blockName>Asociación de tareas a Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg2-3lu8jbbss</odePageId>
+          <odeBlockId>block-1775064274588-ukk4qfyrc</odeBlockId>
+          <odeIdeviceId>idevice-1775064274585-m4ui1pgy5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="100%" height="300" src="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775064274585-m4ui1pgy5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+      <odeBlockId>block-mnfvo27h-slqul0kk9</odeBlockId>
+      <blockName>Evaluación. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+          <odeBlockId>block-mnfvo27h-slqul0kk9</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-ht61e7i5w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A continuación encontramos en cada sección la evaluación que va a llevar a cabo el o la docente y la autoevaluación que lleva a cabo el alumnado. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A continuación encontramos en cada sección la evaluación que va a llevar a cabo el o la docente y la autoevaluación que lleva a cabo el alumnado. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+      <odeBlockId>block-1775042440659-4z0pllhnw</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+          <odeBlockId>block-1775042440659-4z0pllhnw</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-v652x8d4w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Diana de Evaluación</p>
+<p>Se utilizará una diana de evaluación para que el alumnado valore su propia interpretación tras la escucha de la grabación. </p>
+<p>Después de la primera grabación en la actividad 3. <br />Tras la segunda grabación. <br />Se evalúa: la percepción de afinación, seguridad en la interpretación, control del sonido, la expresividad y el grado de mejora percibido. </p>
+<p>Los resultados nos permiten fomentar la autoevaluación, comparar la percepción del alumnado con la del docente y detectar la falta de conciencia interpretativa.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="300" height="150" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHFCtUtIxE/oEEReYA7W8PD_A4ocPw6gQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHFCtUtIxE/oEEReYA7W8PD_A4ocPw6gQ/view?utm_content=DAHFCtUtIxE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Rosa azul verde ficha educativa herramienta de evaluación diana lectura en voz alta </a> de Mª Ángeles Gómez Menor</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27h-v652x8d4w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Diana de Evaluación</p>\n<p>Se utilizará una diana de evaluación para que el alumnado valore su propia interpretación tras la escucha de la grabación. </p>\n<p>Después de la primera grabación en la actividad 3. <br />Tras la segunda grabación. <br />Se evalúa: la percepción de afinación, seguridad en la interpretación, control del sonido, la expresividad y el grado de mejora percibido. </p>\n<p>Los resultados nos permiten fomentar la autoevaluación, comparar la percepción del alumnado con la del docente y detectar la falta de conciencia interpretativa.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"300\" height=\"150\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHFCtUtIxE/oEEReYA7W8PD_A4ocPw6gQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHFCtUtIxE/oEEReYA7W8PD_A4ocPw6gQ/view?utm_content=DAHFCtUtIxE&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Rosa azul verde ficha educativa herramienta de evaluación diana lectura en voz alta </a> de Mª Ángeles Gómez Menor</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+      <odeBlockId>block-mnfvo27h-bv96jx95a</odeBlockId>
+      <blockName>Evaluación de docente. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg6-zwhr59ldk</odePageId>
+          <odeBlockId>block-mnfvo27h-bv96jx95a</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-sddnu8az7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Evaluación centrada en “Escuchar para mejorar”. </p>
+<p>En esta situación de aprendizaje se utilizan diferentes instrumentos de evaluación con el objetivo de recoger información sobre el proceso de aprendizaje del alumnado, ofrecer retroalimentación y favorecer la mejora de la interpretación musical mediante la escucha y la autoevaluación. </p>
+<p><br />En primer lugar utilizo una rúbrica de interpretación musical para evaluar la interpretación del alumnado en las diferentes grabaciones, permitiendo valorar la evolución y la aplicación de mejoras. </p>
+<p>En la primera grabación se realiza una evaluación inicial y en la segunda grabación la evaluación final del progreso. <br />Se evalúa: afinación, ritmo, calidad del sonido, expresividad y la aplicación de correcciones. </p>
+<p>Los resultados nos permiten detectar dificultades concretas, valorar la evolución entre grabaciones y ofrecer un feedback individualizado al alumnado. <img src="{{context_path}}/content/resources/Rubrica_Grabacion_.png" alt="" width="1280" height="720" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27h-sddnu8az7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Evaluación centrada en “Escuchar para mejorar”. </p>\n<p>En esta situación de aprendizaje se utilizan diferentes instrumentos de evaluación con el objetivo de recoger información sobre el proceso de aprendizaje del alumnado, ofrecer retroalimentación y favorecer la mejora de la interpretación musical mediante la escucha y la autoevaluación. </p>\n<p><br />En primer lugar utilizo una rúbrica de interpretación musical para evaluar la interpretación del alumnado en las diferentes grabaciones, permitiendo valorar la evolución y la aplicación de mejoras. </p>\n<p>En la primera grabación se realiza una evaluación inicial y en la segunda grabación la evaluación final del progreso. <br />Se evalúa: afinación, ritmo, calidad del sonido, expresividad y la aplicación de correcciones. </p>\n<p>Los resultados nos permiten detectar dificultades concretas, valorar la evolución entre grabaciones y ofrecer un feedback individualizado al alumnado. <img src=\"{{context_path}}/content/resources/Rubrica_Grabacion_.png\" alt=\"\" width=\"1280\" height=\"720\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg7-hous6uvr7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg7-hous6uvr7</odePageId>
+      <odeBlockId>block-mnfvo27h-t7gaof5ir</odeBlockId>
+      <blockName>Atención a la diversidad </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg7-hous6uvr7</odePageId>
+          <odeBlockId>block-mnfvo27h-t7gaof5ir</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-m41eh6rb5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li>Adaptación del ritmo. </li>
+<li>Apoyo individual. </li>
+<li>Uso de recursos visuales y auditivos. </li>
+<li>Diferentes formas de participación. </li>
+<li>Más grabaciones en caso de ser necesarias. </li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li>Adaptación del ritmo. </li>\n<li>Apoyo individual. </li>\n<li>Uso de recursos visuales y auditivos. </li>\n<li>Diferentes formas de participación. </li>\n<li>Más grabaciones en caso de ser necesarias. </li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg7-v8pgovyif</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg7-v8pgovyif</odePageId>
+      <odeBlockId>block-mnfvo27g-9ldi2i4hh</odeBlockId>
+      <blockName>Protección de datos </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg7-v8pgovyif</odePageId>
+          <odeBlockId>block-mnfvo27g-9ldi2i4hh</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27g-0nkzd1ex1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Texto.png" alt="Infografía Seguridad e Identidad Digital" width="100%" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnfvo27g-0nkzd1ex1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Texto.png\" alt=\"Infografía Seguridad e Identidad Digital\" width=\"100%\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnhc6hg7-48941qgg2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg7-48941qgg2</odePageId>
+      <odeBlockId>block-mnfvo27h-bzni1n5l8</odeBlockId>
+      <blockName>Créditos. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg7-48941qgg2</odePageId>
+          <odeBlockId>block-mnfvo27h-bzni1n5l8</odeBlockId>
+          <odeIdeviceId>idevice-mnfvo27h-ah6hhbcjc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<ul>
+<li>Actividad desarrollada por: María de los Ángeles Gómez Menor. </li>
+<li>Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</li>
+<li>Recursos utilizados: imágenes, vídeos, canva, padlet, symbaloo, google docs y ExeLearning. </li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<ul>\n<li>Actividad desarrollada por: María de los Ángeles Gómez Menor. </li>\n<li>Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</li>\n<li>Recursos utilizados: imágenes, vídeos, canva, padlet, symbaloo, google docs y ExeLearning. </li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnhc6hg7-48941qgg2</odePageId>
+      <odeBlockId>block-1775058567405-yl80oisqa</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnhc6hg7-48941qgg2</odePageId>
+          <odeBlockId>block-1775058567405-yl80oisqa</odeBlockId>
+          <odeIdeviceId>idevice-1775058567403-q4xwf5xi4</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Escuchar para mejorar: grabación en la clase de viola. </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Actividad a realizar en la clase de viola para la mejora de la interpretación. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María de los Ángeles Gómez Menor </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
